@@ -34,7 +34,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5)
 
-![Top Langs]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreandmorebr394&show_icons=true&locale=en&layout=compact" alt="moreandmorebr394" /></p>
+
+## Git Top Lags
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreandmorebr394&show_icons=true&locale=en&layout=compact" alt="moreandmorebr394" /></p>
 
 ## 📊 GitHub Stats
 
