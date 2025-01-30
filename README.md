@@ -42,7 +42,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak]((https://streak-stats.demolab.com?user=moreandmorebr394&theme=synthwave)](https://git.io/streak-stats))]
+[![GitHub Streak](https://streak-stats.demolab.com?user=moreandmorebr394&theme=synthwave)](https://git.io/streak-stats)
 
 ## 🛠️ Tools
 
