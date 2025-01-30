@@ -31,13 +31,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JPLabussiereF&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moreandmorebr394&theme=synthwave&show_icons=true&hide_border=true&count_private=false)
+
 
 ## 🔥 GitHub Streak
 
