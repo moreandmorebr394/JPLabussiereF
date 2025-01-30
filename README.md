@@ -36,7 +36,7 @@
 
 
 ## Git Top Lags
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreandmorebr394&show_icons=true&locale=en&layout=compact" alt="moreandmorebr394" /></p>
+![Git Top Lags](https://github-readme-stats.vercel.app/api/top-langs?username=moreandmorebr394&show_icons=true&locale=en&layout=compact" alt="moreandmorebr394)
 
 ## 📊 GitHub Stats
 
