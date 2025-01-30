@@ -14,25 +14,25 @@
 
 <div align="left">
 
-# 🦦 About me
+# 🦦 Sobre mim
 
-👾 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
+👾 Olá, eu sou Bruna Alves, estudante do 5° Semestre em Análise e Desenvolvimento de Sistemas e no 4° Semestre em Ciência da Computação.
 
-🌱 I constantly seek to learn and improve my skills in various areas, including software development, artificial intelligence, machine learning and information security. I firmly believe that continuous education and curiosity are key to success in this ever-evolving industry.
+🌱 Estou constantemente aprendendo novas tecnologias e sempre em busca de conhecer mais e evoluir meus conhecimentos e desenvolver sempre minhas aptidões e habilidades.
 
-💼 Always open to new learning and collaboration opportunities! 
+💼 Estou aberta a oportunidades e formas de colaborar.
 
-🚀 I'm excited to share my progress, projects, and contributions here on GitHub. Join me on this journey of learning and discovery! 
+🚀 Compartilhando meu github e projetos.
 
-## 👋 Connect with me
+## 👋 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bruna-alves-de-paula-25b198210/))
 
-## 📚 Studying in this moment
+## 📚 Estudando atualmente
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![TypeScript]((https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square))
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 ## 📊 GitHub Stats
