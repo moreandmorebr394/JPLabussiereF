@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreandmorebr394&show_icons=true&locale=en&layout=compact" alt="moreandmorebr394" /></p>
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moreandmorebr394&theme=synthwave&show_icons=true&hide_border=true&count_private=false)
