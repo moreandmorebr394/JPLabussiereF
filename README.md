@@ -36,7 +36,7 @@
 
 
 ## Git Top Lags
-![Git Top Lags](https://github-readme-stats.vercel.app/api/top-langs?username=moreandmorebr394&show_icons=true&locale=en&layout=compact" alt="moreandmorebr394)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreandmorebr394)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub Stats
 
